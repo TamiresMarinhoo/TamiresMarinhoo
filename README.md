@@ -10,4 +10,4 @@ Sou desenvolvedora front-end com sólida experiência em HTML, CSS e JavaScript,
 Tenho paixão por otimizar código e melhorar a usabilidade, sempre buscando as melhores práticas do mercado. Já participei de projetos que demandaram adaptação rápida e solução criativa de problemas, o que fortaleceu minha capacidade de entregar resultados consistentes.
 
 
-![Tamires's GitHub stats](https://github-readme-stats.vercel.app/api?=TamiresMarinhoo/TamiresMarinhoo=true&theme=transparent)
+![Tamires's GitHub stats](https://github-readme-stats.vercel.app/TamiresMarinhoo/TamiresMarinhoo=true&theme=transparent)
