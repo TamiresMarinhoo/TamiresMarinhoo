@@ -21,7 +21,7 @@ Fora do código, sou fã de filmes de terror 🎬, amante de leitura e tenho um 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamiresmarinho)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api@TamiresMarinhooanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apihttps://github.com/TamiresMarinhooanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
