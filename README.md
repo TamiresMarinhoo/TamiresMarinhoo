@@ -1,13 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Tamires!
 
 Front-End Developer 🚀
+
 Transformando código em experiências incríveis ✨
+
+### 🛠️ Tecnologias & Ferramentas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Sou desenvolvedora front-end com sólida experiência em HTML, CSS e JavaScript, focado em construir interfaces web responsivas, acessíveis e de alta performance. Ao longo da minha trajetória, venho aprimorando habilidades para transformar designs em experiências digitais fluidas, garantindo que cada elemento da interface entregue valor ao usuário final.
+### 👩‍💻 Sobre mim
 
-Tenho paixão por otimizar código e melhorar a usabilidade, sempre buscando as melhores práticas do mercado. Já participei de projetos que demandaram adaptação rápida e solução criativa de problemas, o que fortaleceu minha capacidade de entregar resultados consistentes.
+Desenvolvedora front-end de Porto Alegre/RS 🌵, estudando Análise e Desenvolvimento de Sistemas na Uniasselvi e aprimorando minhas habilidades no DevClub. Ainda estou nos primeiros meses dessa jornada, mas já apaixonada por transformar código em interfaces bonitas e funcionais.
+
+Meu sonho é me tornar desenvolvedora **fullstack** — e estou construindo esse caminho um commit de cada vez. 🚀
+
+Fora do código, sou fã de filmes de terror 🎬, amante de leitura e tenho um gosto musical bem eclético e sou completamente apaixonada por Renato Russo. 🎸 *"Será que é o fim do mundo ou é apenas o começo?"*
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTamiresMarinhooanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamiresmarinho)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api@TamiresMarinhooanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
