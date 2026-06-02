@@ -22,5 +22,4 @@ Fora do código, sou fã de filmes de terror 🎬, amante de leitura e tenho um 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamiresmarinho)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TamiresMarinhoo&theme=radical&hide_border=true)](https://github.com/TamiresMarinhoo)
 
